@@ -1,4 +1,4 @@
-# Hey, I'm Fer 
+# Hey, I'm Fer
 
 Engineering student at **Universidad Adolfo Ibáñez** with a focus on software development, data, and electronics.
 
@@ -6,7 +6,7 @@ I like building things that work, from embedded systems to command-line tools to
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 
@@ -33,7 +33,7 @@ I like building things that work, from embedded systems to command-line tools to
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
 | Project | Description |
 |---------|-------------|
@@ -42,14 +42,6 @@ I like building things that work, from embedded systems to command-line tools to
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ferjomendez&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
-
-### 📫 Let's Connect
+### Let's Connect
 
 Feel free to explore my repos or reach out if something catches your eye.
